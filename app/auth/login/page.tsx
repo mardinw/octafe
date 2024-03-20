@@ -58,6 +58,9 @@ export default function Login() {
   }
 
   return (
-    <div>Login Page</div>
+    <main>
+      <div className="hero min-h-screen bg-base-200">
+      </div>
+    </main>
   )
 }
